@@ -1,18 +1,7 @@
 <template>
-  <div id="app">
-    <Entrance />
+  <div>
+    <router-view />
   </div>
 </template>
-
-<script>
-import Entrance from "./components/entrancePage.vue";
-
-export default {
-  name: "App",
-  components: {
-    Entrance,
-  },
-};
-</script>
 
 <style></style>
