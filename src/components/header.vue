@@ -8,7 +8,7 @@
         <li class="self-center">
           <input
             type="text"
-            class="px-3 rounded-full h-9 border-2 focus:outline-none focus:border-green-300 focus:ring"
+            class="px-3 rounded-full h-9 border-2 focus:border-green-300 focus:ring"
             placeholder="你可能可以搜索到..."
           />
         </li>

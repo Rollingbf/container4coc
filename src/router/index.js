@@ -6,7 +6,8 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: "/",
+    path: "/creator",
+    alias: "/",
     name: "create",
     component: Creator,
   },

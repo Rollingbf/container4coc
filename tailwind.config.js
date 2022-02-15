@@ -7,6 +7,9 @@ module.exports = {
         DEFAULT: "0px",
       },
     },
+    fontFamily: {
+      yahei: ["Microsoft YaHei"],
+    },
   },
   variants: {
     extend: {},
